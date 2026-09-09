@@ -31,7 +31,7 @@ The latest release (APK) is available on the [Releases page](../../releases/late
 
 - **[VéloClimat](https://geomanum.org/fr/projets/veloclimat)** — the citizen-science cycling project this app was built for, organizing "thermoParties" workshops along a multi-day route to collect air temperature data.
 - **[Geomanum Foundation](https://geomanum.org)** — supports the app's development and promotes open geographic data for the ecological transition.
-- **UMOCE-CC** — uses the sensors for its research on thermal comfort and contributes to their improvement.
+- **UMOVE-CC** — uses the sensors for its research on thermal comfort and contributes to their improvement.
 
 
 ## Build
