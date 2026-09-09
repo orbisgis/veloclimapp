@@ -21,12 +21,18 @@ It's part of the broader VéloClimat citizen-science project — a multi-day cyc
 
 The latest release (APK) is available on the [Releases page](../../releases/latest).
 
-
 ## Requirements
 
 - Android 11+
 - Bluetooth and Location permissions enabled
 - VeloClimap sensor device (see [geomanum.org/fr/projets/veloclimat](https://geomanum.org/fr/projets/veloclimat))
+
+## Related projects
+
+- **[VéloClimat](https://geomanum.org/fr/projets/veloclimat)** — the citizen-science cycling project this app was built for, organizing "thermoParties" workshops along a multi-day route to collect air temperature data.
+- **[Geomanum Foundation](https://geomanum.org)** — supports the app's development and promotes open geographic data for the ecological transition.
+- **UMOCE-CC** — uses the sensors for its research on thermal comfort and contributes to their improvement.
+
 
 ## Build
 
