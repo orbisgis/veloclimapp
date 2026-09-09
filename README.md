@@ -17,6 +17,11 @@ It's part of the broader VéloClimat citizen-science project — a multi-day cyc
 |:---:|:---:|
 | <img width="300" alt="VeloClimApp screenshot" src="https://github.com/user-attachments/assets/1317dd4b-8b86-45b4-8d8e-374c21a712a1" /> | <img width="300" alt="VeloClimap sensor" src="https://github.com/user-attachments/assets/c5c09fc4-eb34-40d8-870b-92307212e8b3" /> |
 
+## Download the last version
+
+The latest release (APK) is available on the [Releases page](../../releases/latest).
+
+
 ## Requirements
 
 - Android 11+
